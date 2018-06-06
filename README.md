@@ -1,15 +1,15 @@
-#h1 Clone the project:
+Clone the project:
 
-#git clone <https://github.com/EugeneMerkulove/land.git>
-#---
-#h1 Upload npm packages:
+git clone <https://github.com/EugeneMerkulove/land.git>
 
-#npm install
-#---
-#h1 Create build folder
+Upload npm packages:
 
-#gulp build
-#---
-#Create build folder and run server:
+npm install
 
-#gulp server
+Create build folder:
+
+gulp build
+
+Create build folder and run server:
+
+gulp server
