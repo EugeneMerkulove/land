@@ -1,15 +1,15 @@
-Clone the project:
+1)Clone the project:
 
 git clone <https://github.com/EugeneMerkulove/land.git>
 
-Upload npm packages:
+2)Upload npm packages:
 
 npm install
 
-Create build folder:
+3)Create build folder:
 
 gulp build
 
-Create build folder and run server:
+4)Create build folder and run server:
 
 gulp server
